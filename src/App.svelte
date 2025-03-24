@@ -2,9 +2,12 @@
   import { onMount } from 'svelte';
 
   const messages = [
-    'Hello . . .',
-    'I am Agung Wicaksono',
-    'I am a Backend Developer'
+    'Hello...',
+    'I\'m Agung Wicaksono',
+    'A Backend Developer',
+    'Specializing in Python',
+    'Experienced in Django, Flask, and FastAPI',
+    'Open to collaboration opportunities'
   ];
 
   let currentMessageIndex = 0;
